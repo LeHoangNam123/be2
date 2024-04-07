@@ -1,1 +1,3 @@
+Create file text1
+Thuoc branch week1 ma thoi
 Create file text1 thuoc ca main va week1
